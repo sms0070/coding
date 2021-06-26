@@ -1,0 +1,13 @@
+# Default ignored files
+/workspace.xml
+/$PRODUCT_WORKSPACE_FILE$
+/coding.iml
+/compiler.xml
+/dbnavigator.xml
+/misc.xml
+/modules.xml
+/uiDesigner.xml
+/vcs.xml
+/workspace.xml
+target
+generated
